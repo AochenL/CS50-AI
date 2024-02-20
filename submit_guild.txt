@@ -1,0 +1,5 @@
+git init
+git checkout -b ai50/projects/2020/x/questions
+git add .
+git commit -m "proj6 questions"
+git push --set-upstream https://github.com/me50/AochenL.git ai50/projects/2020/x/questions
